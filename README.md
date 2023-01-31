@@ -1,5 +1,5 @@
 <a name="readme-top"></a>
-# SCApp API
+# SCApp
 
 <!--![GitHub repo size](https://img.shields.io/github/repo-size/apptivium/adherbal-app-old?style=for-the-badge)
 ![GitHub language count](https://img.shields.io/github/languages/count/apptivium/adherbal-app-old?style=for-the-badge)
@@ -8,7 +8,7 @@
 
 > O SCApp é um sistema de gestão escolar que proporciona aos alunos, pais, professores e direção escolar um melhor momento durante o ano letivo. Visando proporcionar uma experiência online, simples e útil para todos.
 
-## :tools: Ajustes e Melhorias
+## 🛠️ Ajustes e Melhorias
 
 - [ ] Login Administrador (Gestão Escolar)
 - [ ] Login Usuário (Estudante e Responsável)
@@ -33,7 +33,7 @@
 ## :black_nib: Autores
 
 * **Luiz Fernando de Almeida Morais** - *Back-end* & *Front-end* - [LuizF245](https://www.github.com/luizf245)
-* **Willian Pereira** - *Back-end* & *Front-end* - [Sty13](https://www.github.com/Sty13)
+* **Willian Bücker Pereira** - *Back-end* & *Front-end* - [Sty13](https://www.github.com/Sty13)
 
 ## :pencil: Licença
 
