@@ -24,7 +24,7 @@
 [![ReactNative][reactnative]][rn-url]
 [![Expo][expo]][expo-url]
 
-## Rotas
+## Rotas / API
 
 <p>Infelizmente a nossa API não é pública, mas você pode utilizar nosso app e todas suas funcionalidades se inscrevendo para uma open-beta em https://apptivium.com.br/betaapp .</p>
 
