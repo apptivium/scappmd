@@ -8,7 +8,7 @@
 
 > O SCApp é um sistema de gestão escolar que proporciona aos alunos, pais, professores e direção escolar um melhor momento durante o ano letivo. Visando proporcionar uma experiência online, simples e útil para todos.
 
-## 🛠️ Ajustes e Melhorias
+## 🛠️ Ajustes e Melhorias planejados
 
 - [ ] Login Administrador (Gestão Escolar)
 - [ ] Login Usuário (Estudante e Responsável)
@@ -21,19 +21,17 @@
 [![Express][express]][express-url]
 [![Prisma][prisma]][prisma-url]
 [![MariaDB][mariadb]][mariadb-url]
+[![ReactNative][reactnative]][rn-url]
+[![Expo][expo]][expo-url]
 
 ## Rotas
 
-<p>Rotas utilizadas pela aplicação web para executar metodos de GET, POST, PUT e DELETE no banco de dados.</p>
-
-| Verbo    | Rota                      | Funcionalidade                                         |
-| -------- | ------------------------- | ------------------------------------------------------ |
-| `GET`    | /get/posts                | Lista as postagens do banco de dados interno.          |
+<p>Infelizmente a nossa API não é pública, mas você pode utilizar nosso app e todas suas funcionalidades se inscrevendo para uma open-beta em https://apptivium.com.br/betaapp .</p>
 
 ## :black_nib: Autores
 
-* **Luiz Fernando de Almeida Morais** - *Back-end* & *Front-end* - [LuizF245](https://www.github.com/luizf245)
-* **Willian Bücker Pereira** - *Back-end* & *Front-end* - [Sty13](https://www.github.com/Sty13)
+* **Luiz Fernando de Almeida Morais** - *Back-end* & *Planner* - [LuizF245](https://www.github.com/luizf245)
+* **Willian Bücker Pereira** - *Mobile* & *Front-end* - [Sty13](https://www.github.com/Sty13)
 
 ## :pencil: Licença
 
@@ -53,3 +51,7 @@ Feito com :heart: por **Apptivium Technologies :copyright: 2022-2023** :rocket:
 [nodejs-url]: https://nodejs.org/en/
 [mariadb]: https://shields.io/badge/MariaDB-212e5b?style=for-the-badge&logo=MariaDB&logoColor=white
 [mariadb-url]: https://mariadb.org/
+[reactnative]: https://shields.io/badge/React%20Native-45ceef?style=for-the-badge&logo=react&logoColor=white
+[rn-url]: https://reactnative.dev/
+[expo]: https://shields.io/badge/Expo-00001a?style=for-the-badge&logo=expo&logoColor=white
+[expo-url]: https://expo.dev/
